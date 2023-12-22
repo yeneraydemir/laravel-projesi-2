@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Yukarıda görünen sürümler ile yapılmıştır.
+## Bu bir Laravel-Vue Projesidir.
+## Sürümler:
+PHP 8.3.0 (cli) (built: Nov 21 2023 14:40:35) (NTS)
+Node v21.4.0
+Vue
 
 
